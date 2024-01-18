@@ -79,7 +79,7 @@ Ingredients:
 - 4 hamburger buns
 - Lettuce
 - Tomato
-- Mayonnaise
+- Mayonnaisegit
 
 Instructions:
 1. Preheat grill to medium-high heat.
@@ -97,11 +97,11 @@ Ingredients:
 - 1 tsp baking soda
 - 1 tsp salt
 - 1 cup unsalted butter, softened
-- 2 3/4 cup white sugar
+- 3/4 cup white sugar
 - 3/4 cup brown sugar
 - 2 eggs
 - 2 tsp vanilla extract
-- 4 cups semisweet chocolate chips
+- 2 cups semisweet chocolate chips
 
 Instructions:
 1. Preheat oven to 375°F (190°C).
@@ -113,3 +113,38 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+## Desserts
+### Lemon Cookies
+
+Ingredients
+1 cup white sugar
+
+½ cup butter, softened
+
+2 tablespoons fresh lemon zest
+
+2 large eggs
+
+1 tablespoon fresh lemon juice
+
+½ teaspoon vanilla extract
+
+1 ¾ cups all-purpose flour
+
+1 ½ teaspoons baking powder
+
+¼ teaspoon salt
+
+¼ cup confectioners' sugar for rolling
+
+Directions
+Beat together sugar, butter, and lemon zest in a large bowl using an electric mixer until light and fluffy, about 3 minutes. Whisk together eggs, lemon juice, and vanilla in a small bowl until combined. Beat into butter mixture slowly on low speed.
+
+Whisk together flour, baking powder, and salt in a medium bowl. Add to egg mixture slowly on low speed until just combined. Do not overbeat; dough will be sticky. Cover and chill dough in the refrigerator for 30 minutes; it will still be sticky after chilling.
+
+Preheat the oven to 350 degrees F (175 degrees C). Line 2 baking sheets with parchment paper.
+
+Form dough into balls using a cookie scoop or tablespoon, then roll each in confectioners' sugar. Place 2 inches apart onto the prepared baking sheets. Lightly smash each ball down using your hand.
+
+Bake in the preheated oven until the centers are just barely set, 11 to 12 minutes. Let cool on a wire rack completely before storing in an airtight container.
